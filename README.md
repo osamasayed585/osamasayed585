@@ -2,14 +2,20 @@
   <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
 </p>
 
-#  I’m Osama Sayed  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# I’m Osama Sayed  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
  
- ## I’m interested in android developer 👀 <br>
- 🌱 I’m currently learning android developer with java<br>
- 💞️ I’m looking to collaborate on ...<br>
-📫 How to reach me ..<br>
+#### I'm interested in creating high-quality Apps, and I always try to learn new tools that improve my work <br>
+## Education
+### Bachelor of Science in Computer Systems: Higher Institute for Advanced Studies 
+### Al-Haram branch 2015 – 2019 <br>
+#### Mobile Application Development using Java and Kotlin <br>
+
+## Android Skills 
+#### Android SDK - XML - Material design - OOP - RxJava - RESTful - APIs - JSON - 	Data structures and Algorithms
+#### SQLite -	Room - View Binding
+
 
   
 ### Languages and Tools
