@@ -16,6 +16,14 @@
 #### Android SDK - XML - Material design - OOP - RxJava - RESTful - APIs - JSON - 	Data structures and Algorithms
 #### SQLite -	Room - View Binding
 
+## My experience 
+- I have an average experience in Java language with object-oriented programming (OOP)
+- I have an average experience in Kotlin language with object-oriented programming (OOP)
+- I have an average experience in Android using Java and beginner in Android using Kotlin, compiled in several applications, you will find it in my account on Github
+- Data structures and algorithms fundamentals
+- I have an average experience in Problem Solving from Codeforces
+- I have experience in Github
+
 
   
 ### Languages and Tools
