@@ -15,7 +15,7 @@
 ## Android Skills 
 #### Android SDK - XML - Material design - OOP - RxJava - RESTful - APIs - JSON - 	Data structures and Algorithms
 #### SQLite -	Room - View Binding
-
+#### Coroutines - Navigation Components - MVVM - picasso
 ## My experience 
 - I have an experience in Java language with object-oriented programming (OOP)
 - I have an experience in Kotlin language with object-oriented programming (OOP)
