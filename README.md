@@ -7,15 +7,12 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
  
 #### I'm interested in creating high-quality Apps, and I always try to learn new tools that improve my work <br>
-## Education
-### Bachelor of Science in Computer Systems: Higher Institute for Advanced Studies 
-### Al-Haram branch 2015 – 2019 <br>
-#### Mobile Application Development using Java and Kotlin <br>
+
 
 ## Android Skills 
-#### Android SDK - XML - Material design - OOP - RxJava - RESTful - APIs - JSON - 	Data structures and Algorithms
-#### SQLite -	Room - View Binding
-#### Coroutines - Navigation Components - MVVM - picasso
+#### Android SDK - XML - Material design - OOP - RxJava - RESTful_APIs - JSON
+#### Data structures and Algorithms - SQLite -	Room - View Binding - Coroutines 
+#### Navigation Components - MVVM - MVP - MVC - Picasso
 ## My experience 
 - I have an experience in Java language with object-oriented programming (OOP)
 - I have an experience in Kotlin language with object-oriented programming (OOP)
