@@ -1,7 +1,3 @@
-<p>
-  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
-</p>
-
 # I’m Osama Sayed  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -9,12 +5,37 @@
 #### Enthusiastic Android developer, able to use the latest technologies, I have more than a year working on various projects, I have the ambition to develop my skills and work in a challenging collaborative environment, I have worked on many applications with the latest tools, applying my  knowledge of OOP, SOLID, MVC, MVP, and MVVM powerful knowledge, able to use Github to work with a team 
 <br>
 
-## Android Skills 
+### Connect with me :smiley:
+<a href="https://twitter.com/osamasayed585">
+  <img align="left" alt="Osama Sayed Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
+<a href="https://dev.to/osamasayed151">
+  <img align="left" alt="Osama Sayed DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Osama Sayed Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
+</a>
+<a href="https://www.linkedin.com/in/osama-sayed-b41966195/">
+  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+<a href="https://medium.com/@osamasayed585">
+<img align="left" alt="Osama Sayed Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+</a>
+
+<a href="https://www.quora.com/profile/Osama-Sayed-54">
+<img align="left" alt="Osama Sayed Quora" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
+  
+<a href="https://stackoverflow.com/users/10733439/osama-sayed">
+<img align="left" alt="Osama Sayed stackOverFlow" width="21px"src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/stackoverflow.svg" />
+</a>
+</a><br/><br/>
+
+<!-- ## Android Skills 
 #### Android SDK - XML - Material design - OOP - RESTful_APIs
 #### Data structures and Algorithms - SQLite -	Room - View Binding -Data Binding - Coroutines 
-#### Navigation Components - MVVM - MVP - MVC - Picasso
+#### Navigation Components - MVVM - MVP - MVC - Picasso - Glide -->
   
-### Languages and Tools
+## Languages and Tools
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-5F73D9?style=flat-square&logo=Kotlin&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
