@@ -22,8 +22,9 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Android-IDE](http://img.shields.io/badge/-Android-30D780?style=flat-square&logo=android&logoColor=ffffff)
 
-## &#x1f4c8; Github Stats & Top Languages
-
+## &#x1f4c8; Github Stats & Top Languages & StackOverFlow status
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=osamasayed151&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamasayed151&langs_count=8&theme=dark&hide_border=true&icon_color=fff)](https://github.com/osamasayed151/github-readme-stats)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10733439&&theme=dark)](https://stackoverflow.com/users/10733439/omid-nikrah)
+
 <br />
