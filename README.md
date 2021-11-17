@@ -6,22 +6,13 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
  
-#### I'm interested in creating high-quality Apps, and I always try to learn new tools that improve my work <br>
-
+#### Enthusiastic Android developer, able to use the latest technologies, I have more than a year working on various projects, I have the ambition to develop my skills and work in a challenging collaborative environment, I have worked on many applications with the latest tools, applying my  knowledge of OOP, SOLID, MVC, MVP, and MVVM powerful knowledge, able to use Github to work with a team 
+<br>
 
 ## Android Skills 
-#### Android SDK - XML - Material design - OOP - RxJava - RESTful_APIs - JSON
-#### Data structures and Algorithms - SQLite -	Room - View Binding - Coroutines 
+#### Android SDK - XML - Material design - OOP - RESTful_APIs
+#### Data structures and Algorithms - SQLite -	Room - View Binding -Data Binding - Coroutines 
 #### Navigation Components - MVVM - MVP - MVC - Picasso
-## My experience 
-- I have an experience in Java language with object-oriented programming (OOP)
-- I have an experience in Kotlin language with object-oriented programming (OOP)
-- I have an experience in Android using Java and beginner in Android using Kotlin, compiled in several applications, you will find it in my account on Github
-- Data structures and algorithms fundamentals
-- I have an experience in Problem Solving from Codeforces
-- I have experience in Github
-
-
   
 ### Languages and Tools
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
