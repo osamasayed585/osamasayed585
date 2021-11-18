@@ -37,13 +37,13 @@
 #### Enthusiastic Android developer, able to use the latest technologies, I have more than a year working on various projects, I have the ambition to develop my skills and work in a challenging collaborative environment, I have worked on many applications with the latest tools, applying my  knowledge of OOP, SOLID, MVC, MVP, and MVVM powerful knowledge, able to use Github to work with a team 
 <br>
 
-### &#x1f4c8; Github Stats & Top Languages & StackOverFlow stats & WakaTime Stats
+### &#x1f4c8; Github Stats & Top Languages & WakaTime Stats
   
 <p align="center">
 <a href="https://github.com/osamasayed151">
   <img height="180em" border-radius="40px" src="https://github-readme-stats.vercel.app/api?username=osamasayed151&show_icons=true&theme=dark&hide_border=true&icon_color=fff" />
   <img height="180em" border-radius="40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamasayed151&langs_count=8&theme=dark&hide_border=true&icon_color=fff" />
-  <img height="180em" border-radius="40px" src="https://github-readme-stackoverflow.vercel.app/?userID=10733439&&theme=dark&&layout=compact)](https://stackoverflow.com/users/10733439/omid-nikrah"/>
+<!--   <img height="180em" border-radius="40px" src="https://github-readme-stackoverflow.vercel.app/?userID=10733439&&theme=dark&&layout=compact)](https://stackoverflow.com/users/10733439/omid-nikrah"/> -->
 </a>
 </p>
 <p align="center">
@@ -72,4 +72,4 @@
 ![Android-IDE](http://img.shields.io/badge/-Android-30D780?style=flat-square&logo=android&logoColor=ffffff) -->
   
   
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/osamasayed151/osamasayed151/main/murqee.svg" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/osamasayed151/osamasayed151/0b94eb7130519adfc2dc5117c7fc25e3f6a3eb4f/murqee.svg" />
