@@ -72,4 +72,4 @@
 ![Android-IDE](http://img.shields.io/badge/-Android-30D780?style=flat-square&logo=android&logoColor=ffffff) -->
   
   
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/osamasayed151/osamasayed151/main/murqee.svg" />
