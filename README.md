@@ -41,8 +41,8 @@
   
 <p align="center">
 <a href="https://github.com/osamasayed151">
-  <img height="180em" border-radius="40px" src="https://github-readme-stats.vercel.app/api?username=osamasayed585&show_icons=true&theme=dark&hide_border=true&icon_color=fff" />
-  <img height="180em" border-radius="40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamasayed585&langs_count=8&theme=dark&hide_border=true&icon_color=fff" />
+  <img height="180em" border-radius="40px" src="https://github-readme-stats.vercel.app/api?username=osamasayed585&show_icons=true&theme=light&hide_border=true&icon_color=fff" />
+  <img height="180em" border-radius="40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamasayed585&langs_count=8&theme=light&hide_border=true&icon_color=fff" />
 <!--   <img height="180em" border-radius="40px" src="https://github-readme-stackoverflow.vercel.app/?userID=10733439&&theme=dark&&layout=compact)](https://stackoverflow.com/users/10733439/omid-nikrah"/> -->
 </a>
 </p>
