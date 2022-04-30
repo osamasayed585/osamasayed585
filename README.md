@@ -46,12 +46,12 @@
 <!--   <img height="180em" border-radius="40px" src="https://github-readme-stackoverflow.vercel.app/?userID=10733439&&theme=dark&&layout=compact)](https://stackoverflow.com/users/10733439/omid-nikrah"/> -->
 </a>
 </p>
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/osamasayed585">
   <img  width="400px" border-radius="40px" src="https://github-readme-stats.vercel.app/api/wakatime?username=osamasayed585&&theme=dark"/>
   <img width="400px" border-radius="40px" src="https://github-readme-streak-stats.herokuapp.com/?user=osamasayed151&layout=compact&&theme=dark"alt="saurav-skl"/>  
 </a>
-</p>
+</p> -->
   
   
 <!-- <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=osamasayed151&layout=compact" alt="saurav-skl" /> -->
