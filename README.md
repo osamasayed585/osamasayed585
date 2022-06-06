@@ -39,9 +39,11 @@
 <h3 align="left"> Enthusiastic Android developer, able to use the latest technologies, I have more than a year working on various projects, I have the ambition to develop my skills and work in a challenging collaborative environment, I have worked on many applications with the latest tools, applying my  knowledge of OOP, SOLID, MVC, MVP, and MVVM powerful knowledge, able to use Github and Bitbucket to work with a team 
 <br>
   
-  
-<h3 align="left"> * Now I work at Visions-tech as an Android developer
-  <h3 align="left"> * Now I am a student in the Google Africa Scholarship 2022
+<h2 align="left"> Status
+  <h3 align="left"> * Now I work at Visions-tech as an Android developer
+  <h3 align="left"> * Now I'm a student in the Google Africa Scholarship 2022
+  <h3 align="left"> * Current, I'm studying Unit Test
+  <h3 align="left"> * Interests -> Research, Open Source Contribution
 
 ### &#x1f4c8; Analysis
   
