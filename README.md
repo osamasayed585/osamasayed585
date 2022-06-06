@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamasayed151" alt="chiraag-kakar" /> </p>
 
 <div align="center">
-<img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="800px" height= "600">
+<img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif">
 </div>
 
 <h2 align="right">Connect with me..</h2> 
