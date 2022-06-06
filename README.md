@@ -33,7 +33,7 @@
  <p align="right">
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-  <h1 align="left">Hi there, I'm Osama 
+  <h1 align="left">Hi there, I'm Osama 👋
   <h3> A Passionate Android Engineer
   
 <h3 align="left"> Enthusiastic Android developer, able to use the latest technologies, I have more than a year working on various projects, I have the ambition to develop my skills and work in a challenging collaborative environment, I have worked on many applications with the latest tools, applying my  knowledge of OOP, SOLID, MVC, MVP, and MVVM powerful knowledge, able to use Github and Bitbucket to work with a team 
