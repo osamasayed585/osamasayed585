@@ -1,9 +1,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamasayed151" alt="chiraag-kakar" /> </p>
 
-<p align="center">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
-</p>
+<div align="center">
+<img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="800px" height= "600">
+</div>
+
 <h2 align="right">Connect with me..</h2> 
   <a href="https://twitter.com/osamasayed585">
   <img align="right" alt="Osama Sayed Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
@@ -37,6 +38,10 @@
   
 <h3 align="left"> Enthusiastic Android developer, able to use the latest technologies, I have more than a year working on various projects, I have the ambition to develop my skills and work in a challenging collaborative environment, I have worked on many applications with the latest tools, applying my  knowledge of OOP, SOLID, MVC, MVP, and MVVM powerful knowledge, able to use Github and Bitbucket to work with a team 
 <br>
+  
+  
+<h3 align="left"> * Now I work at Visions-tech as an Android developer
+  <h3 align="left"> * Now I am a student in the Google Africa Scholarship 2022
 
 ### &#x1f4c8; Analysis
   
