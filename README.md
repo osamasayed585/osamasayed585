@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamasayed151" alt="chiraag-kakar" /> </p>
 
-<div align="center">
+<div align="center" width="300px" height= "200">
 <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif">
 </div>
 
