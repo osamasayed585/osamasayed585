@@ -1,60 +1,68 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osamasayed151" alt="chiraag-kakar" /> </p>
+<img src="https://komarev.com/ghpvc/?username=osamasayed151" alt="chiraag-kakar" /> <h2 align="left">Hi there👋! My name is Usama and I'm an Android Developer.</h2> <img align="right" height="120" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
 
-<div align="center" width="300px" height= "200">
-<img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif">
+<h3 align="left">Brief about me.</h3> 
+<h4 align="left"> Enthusiastic Android developer, able to use the latest technologies, I have more than a year working on various projects, I have the ambition to develop my skills and work in a challenging collaborative environment, I have worked on many applications with the latest tools, applying my  knowledge of OOP, SOLID, MVC, MVP, and MVVM powerful knowledge, able to use Github and Bitbucket to work with a team </h4> 
+
+###
+
+  <h3 align="left">I code with</h3> 
+  
+### 
+
+
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="50" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="30" width="50" alt="gradle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" width="50" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="50" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" width="50" alt="graphql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="50" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="50" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="50" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" width="50" alt="bitbucket logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" width="50" alt="jetbrains logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" width="50" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" width="50" alt="xd logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="50" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="50" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="50" alt="trello logo"  />
 </div>
 
-<h2 align="right">Connect with me..</h2> 
-  <a href="https://twitter.com/osamasayed585">
-  <img align="right" alt="Osama Sayed Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
-</a>
-<a href="https://dev.to/osamasayed151">
-  <img align="right" alt="Osama Sayed DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
-</a>
-<a href="#">
-  <img align="right" alt="Osama Sayed Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
-</a>
-<a href="https://www.linkedin.com/in/osama-sayed-b41966195/">
-  <img align="right" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
-<a href="https://medium.com/@osamasayed585">
-<img align="right" alt="Osama Sayed Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
-</a>
+  
+<h3 align="left">Connect with me.</h3> 
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCZdkyEUyrNXSjqYffH4lXwg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="30" alt="youtube logo"  />
+  </a>
+  <a href="osamasayed585@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/osamasayed585/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/10733439/osama-sayed" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="50" height="30" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://twitter.com/osamasayed585" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="30" alt="twitter logo"  />
+  </a>
+</div>
 
-<a href="https://www.quora.com/profile/Osama-Sayed-54">
-<img align="right" alt="Osama Sayed Quora" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
+<h3 align="left"> Status
+  <h4 align="left"> * Now I work at Visions-tech as an Android developer
+  <h4 align="left"> * Now I'm a participant in the Google Africa Scholarship 2022
+  <h4 align="left"> * Current, I'm studying Unit Test
+  <h4 align="left"> * Interests -> Research, Open Source Contribution
   
-<a href="https://stackoverflow.com/users/10733439/osama-sayed">
-<img align="right" alt="Osama Sayed stackOverFlow" width="21px"src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/stackoverflow.svg" />
-</a>
-</a><br/><br/>
+    
+###
 
- <p align="right">
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=osamasayed585" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&username=osamasayed585" height="150" alt="languages graph"  />
+</div>
 
-  <h1 align="left">Hi there, I'm Osama 👋
-  <h3> A Passionate Android Engineer
-  
-<h3 align="left"> Enthusiastic Android developer, able to use the latest technologies, I have more than a year working on various projects, I have the ambition to develop my skills and work in a challenging collaborative environment, I have worked on many applications with the latest tools, applying my  knowledge of OOP, SOLID, MVC, MVP, and MVVM powerful knowledge, able to use Github and Bitbucket to work with a team 
-<br>
-  
-<h2 align="left"> Status
-  <h3 align="left"> * Now I work at Visions-tech as an Android developer
-  <h3 align="left"> * Now I'm a student in the Google Africa Scholarship 2022
-  <h3 align="left"> * Current, I'm studying Unit Test
-  <h3 align="left"> * Interests -> Research, Open Source Contribution
-
-<h2 align="left"> Analysis
-  
-<p align="center">
-<a href="https://github.com/osamasayed151">
-  <img height="180em" border-radius="40px" src="https://github-readme-stats.vercel.app/api?username=osamasayed585&show_icons=true&theme=light&hide_border=true&icon_color=fff" />
-  <img height="180em" border-radius="40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamasayed585&langs_count=8&theme=light&hide_border=true&icon_color=fff" />
-<!--   <img height="180em" border-radius="40px" src="https://github-readme-stackoverflow.vercel.app/?userID=10733439&&theme=dark&&layout=compact)](https://stackoverflow.com/users/10733439/omid-nikrah"/> -->
-</a>
-</p>
-
-  
-  
+###
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/osamasayed151/osamasayed151/0b94eb7130519adfc2dc5117c7fc25e3f6a3eb4f/murqee.svg" />
