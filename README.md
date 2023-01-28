@@ -52,7 +52,7 @@
 <h3 align="left"> About me.
   <h4 align="left"> * Now I work at Visions-tech as an Android developer
   <h4 align="left"> * Now I'm a participant in the Google Africa Scholarship 2022
-  <h4 align="left"> * Current, I'm studying Unit Test
+  <h4 align="left"> * Current, I'm studying Unit Test and Jetpack Compose
   <h4 align="left"> * Interests -> Research, Open Source Contribution
   
     
