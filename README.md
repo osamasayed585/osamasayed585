@@ -2,7 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=osamasayed151" alt="chiraag-kakar" /> <h2 align="left">Hi there👋! My name is Usama and I'm an Android Developer.</h2> <img align="right" height="120" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
 
 <h3 align="left">Brief about me.</h3> 
-<h4 align="left"> Enthusiastic Android developer, able to use the latest technologies, I have more than a year working on various projects, I have the ambition to develop my skills and work in a challenging collaborative environment, I have worked on many applications with the latest tools, applying my  knowledge of OOP, SOLID, MVC, MVP, and MVVM powerful knowledge, able to use Github and Bitbucket to work with a team </h4> 
+<h4 align="left"> I am an enthusiastic Android developer with over two years of experience working on various projects, I am adept at using the latest technologies and tools in Android development, My ambition is to continuously develop my skills and thrive in a challenging and collaborative work environment, I have worked on multiple applications, utilizing my strong knowledge of object-oriented programming (OOP), SOLID principles, and architectural patterns such as MVC, MVP, and MVVM. I am proficient in using GitHub and Bitbucket for efficient teamwork and version control. </h4> 
+
 
 ###
 
@@ -50,10 +51,10 @@
 </div>
 
 <h3 align="left"> About me.
-  <h4 align="left"> * Now I work at Visions-tech as an Android developer
-  <h4 align="left"> * Now I'm a participant in the Google Africa Scholarship 2022
-  <h4 align="left"> * Current, I'm studying Unit Test and Jetpack Compose
-  <h4 align="left"> * Interests -> Research, Open Source Contribution
+  <h4 align="left"> * I am currently working as a full-time Android developer at Lnj.
+  <h4 align="left"> * Additionally, I work part-time at Visions-tech, focusing on Android development.
+  <h4 align="left"> * Currently, I am studying Unit Testing and Jetpack Compose to enhance my skills.
+  <h4 align="left"> * My interests include conducting research and contributing to open-source projects.
   
     
 ###
