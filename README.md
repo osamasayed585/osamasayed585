@@ -64,5 +64,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&username=osamasayed585" height="150" alt="languages graph"  />
 </div>
 
+<div 
+  align="center"
+  href="https://stardev.io/developers/osamasayed585">
+<img alt="Check out osamasayed585&apos;s profile on stardev.io" src="https://stardev.io/developers/osamasayed585/badge/languages/country.svg" />
+</div>
+
+
 ###
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/osamasayed585/osamasayed585/0b94eb7130519adfc2dc5117c7fc25e3f6a3eb4f/murqee.svg" />
