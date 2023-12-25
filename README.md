@@ -53,7 +53,7 @@
 <h3 align="left"> About me.
   <h4 align="left"> * I am currently working as a full-time Android developer at Lnj.
   <h4 align="left"> * Additionally, I work part-time at Visions-tech, focusing on Android development.
-  <h4 align="left"> * Currently, I am studying Unit Testing and Jetpack Compose to enhance my skills.
+  <h4 align="left"> * Currently, I am studying Unit Testing and CI/CD to enhance my skills.
   <h4 align="left"> * My interests include conducting research and contributing to open-source projects.
   
     
