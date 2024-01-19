@@ -1,5 +1,5 @@
 
-<img src="https://komarev.com/ghpvc/?username=osamasayed151" alt="chiraag-kakar" /> <h2 align="left">Hi there👋! My name is Usama and I'm an Android Developer.</h2> <img align="right" height="120" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
+<img src="https://komarev.com/ghpvc/?username=osamasayed151" alt="chiraag-kakar" /> <h2 align="left">Hi there👋</h2> <img align="right" height="120" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
 
 <h3 align="left">Brief about me.</h3> 
 <h4 align="left"> I am an enthusiastic Android developer with over two years of experience working on various projects, I am adept at using the latest technologies and tools in Android development, My ambition is to continuously develop my skills and thrive in a challenging and collaborative work environment, I have worked on multiple applications, utilizing my strong knowledge of object-oriented programming (OOP), SOLID principles, and architectural patterns such as MVC, MVP, and MVVM. I am proficient in using GitHub and Bitbucket for efficient teamwork and version control. </h4> 
