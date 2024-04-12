@@ -16,6 +16,12 @@
 - 🌱 Learning all about **Android**, also caring security of mobile apps.
 - :calendar: Looking to contribute to Kotlin-based open-source projects. Especially interested in [Kotlin Coroutines, Jetpack Compose]
 
+#### See My Recent Projects
+
+- [Lnj](https://play.google.com/store/apps/details?id=com.sa.lnj&hl=fa) Specialized software designed for B2B interactions, seamlessly connecting wholesalers and distributors with retailers.
+- [Lnj-Merchant](https://play.google.com/store/apps/details?id=com.sa.lnjprovider): Payment transactions.
+- [Lnj-Daftr](https://play.google.com/store/apps/details?id=com.sa.lnjdafter): Payment transactions.
+
   
     
 #### Development Stuff
