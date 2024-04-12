@@ -19,8 +19,8 @@
 #### See My Recent Projects
 
 - [Lnj](https://play.google.com/store/apps/details?id=com.sa.lnj&hl=fa) Specialized software designed for B2B interactions, seamlessly connecting wholesalers and distributors with retailers.
-- [Lnj-Merchant](https://play.google.com/store/apps/details?id=com.sa.lnjprovider): Streamline Daftr transactions, empower retailers, MENA region.
-- [Lnj-Daftr](https://play.google.com/store/apps/details?id=com.sa.lnjdafter): Shop now, pay later with our innovative Dafter app
+- [Lnj-Merchant](https://play.google.com/store/apps/details?id=com.sa.lnjprovider) Streamline Daftr transactions, empower retailers, MENA region.
+- [Lnj-Daftr](https://play.google.com/store/apps/details?id=com.sa.lnjdafter) Shop now, pay later with our innovative Dafter app
 
   
     
