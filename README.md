@@ -12,9 +12,9 @@
 #### Bio
 
 - 🏢 I'm currently working at **Lnj**
-- 🌍 I'm mostly active within the **Kotlin Community**
-- 🌱 Learning all about **Android**, also caring security of mobile apps.
-- :calendar: Looking to contribute to Kotlin-based open-source projects. Especially interested in [Kotlin Coroutines, Jetpack Compose]
+- 🌍 I'm mostly active within the **Android Community**
+- 🌱 Learning all about **Android**, also caring performance of mobile apps.
+- :calendar: Looking to contribute to Android-based open-source projects. I am especially interested in [Kotlin Flow, Jetpack Compose]
 
 #### See My Recent Projects
 
