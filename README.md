@@ -11,7 +11,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **Lnj**
+- 🏢 I'm currently working at **My Cash**
 - 🌍 I'm mostly active within the **Android Community**
 - 🌱 Learning all about **Android**, also caring performance of mobile apps.
 - :calendar: Looking to contribute to open-source projects. I am especially interested in [Kotlin Flow, Jetpack Compose]
