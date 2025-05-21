@@ -9,6 +9,12 @@
   </a>
 </p>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osama+Sayed....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 #### Bio
 
 - 🏢 I'm currently working at **My Cash**
