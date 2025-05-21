@@ -18,7 +18,7 @@
 
 #### See My Recent Projects
 
-- [My Cash](https://github.com/osamasayed585/Lnj-B2B](https://play.google.com/store/apps/details?id=com.codeIn.myCash)) A POS Android app that helps small businesses manage sales, invoices, and payments.
+- [My Cash](https://play.google.com/store/apps/details?id=com.codeIn.myCash&hl=ar) A POS Android app that helps small businesses manage sales, invoices, and payments.
 - [Lnj](https://github.com/osamasayed585/Lnj-B2B) Specialized software designed for B2B interactions, seamlessly connecting wholesalers and distributors with retailers.
 - [Lnj-Merchant](https://play.google.com/store/apps/details?id=com.sa.lnjprovider) Streamline Daftr transactions, empower retailers, MENA region.
 - [Lnj-Daftr](https://play.google.com/store/apps/details?id=com.sa.lnjdafter) Shop now, pay later with our innovative Dafter app
