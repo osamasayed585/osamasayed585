@@ -26,9 +26,7 @@
 
 - [My Cash](https://play.google.com/store/apps/details?id=com.codeIn.myCash&hl=ar) A POS Android app that helps small businesses manage sales, invoices, and payments.
 - [Lnj](https://github.com/osamasayed585/Lnj-B2B) Specialized software designed for B2B interactions, seamlessly connecting wholesalers and distributors with retailers.
-- [Lnj-Merchant](https://play.google.com/store/apps/details?id=com.sa.lnjprovider) Streamline Daftr transactions, empower retailers, MENA region.
-- [Lnj-Daftr](https://play.google.com/store/apps/details?id=com.sa.lnjdafter) Shop now, pay later with our innovative Dafter app
-
+- [Mktabty](https://play.google.com/store/apps/details?id=com.visionstech.mktabty) a book lovers’ app with **100K+ users**, featuring book discovery and reader interactions
   
     
 #### Development Stuff
@@ -36,12 +34,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=osamasayed585" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&username=osamasayed585" height="150" alt="languages graph"  />
-</div>
-
-<div 
-  align="center"
-  href="https://stardev.io/developers/osamasayed585">
-<img alt="Check out osamasayed585&apos;s profile on stardev.io" src="https://stardev.io/developers/osamasayed585/badge/languages/country.svg" />
 </div>
 
 
