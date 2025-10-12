@@ -20,7 +20,7 @@
 - 🏢 I'm currently working at **My Cash**
 - 🌍 I'm mostly active within the **Android Community**
 - 🌱 Learning all about **Android**, also caring performance of mobile apps.
-- :calendar: Looking to contribute to open-source projects. I am especially interested in [ CI/CD, Jetpack Compose ]
+- :calendar: Looking to contribute to open-source projects. I am especially interested in large scale projects
 
 #### See My Recent Projects
 
